@@ -7,14 +7,7 @@
 
   <h3 align="center">Fit-Flow</h3>
 
-  <p align="center">
-    StackOverflow for Gym Enthusiasts
-    <br />
-    <a href="https://fit-flow-live.vercel.app">View Demo</a>
-    ·
-    <a href="mailto:rohitzrawat2003@gmail.com">Report Bug</a>
-    
-  </p>
+ 
 </div>
 
 <details>
